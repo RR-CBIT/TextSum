@@ -23,7 +23,7 @@ list_of_files = [
   "Requirements.txt",
   "setup.py",
   "research/trials.ipynb",
-  "test.pygi"
+  "test.py"
 ]
 
 for filepath in list_of_files:
