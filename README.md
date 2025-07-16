@@ -1,4 +1,4 @@
-# TextSum
+# Text Summarizer
 
 ## Workflows
 
